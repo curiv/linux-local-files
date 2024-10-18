@@ -1,0 +1,47 @@
+c:\appserv\mysql
+c:\boot.ini
+c:\inetpub/ftproot/
+c:\inetpub\logs\logfiles
+c:\inetpub\wwwroot\global.asa
+c:\inetpub\wwwroot\index.asp
+c:\inetpub\wwwroot\web.config
+c:\program files\
+c:\sysprep.inf
+c:\sysprep\sysprep.inf
+c:\sysprep\sysprep.xml
+c:\sysprep.xml
+c:\system32\inetsrv\metabase.xml
+c:\system volume information\wpsettings.dat
+c:\unattended.txt
+c:\unattended.xml
+c:\unattend.txt
+c:\unattend.xml
+c:\users\administrator\appdata\local\recently-used.xbel
+c:\users\administrator\desktop\desktop.ini
+c:\windows\ccm\logs\filesystemfile.log
+c:\windows\debug\netlogon.log
+c:\windows\debug\netsetup.log
+c:\windows\debug\passwd.log
+c:\windows\debug\sammui.log
+c:\windows\iis.log
+c:\windows\panther\sysprep.inf
+c:\windows\panther\unattended\unattended.xml
+c:\windows\panther\unattended.xml
+c:\windows\repair\sam
+c:\windows\repair\system
+c:windows/system32/
+c:\windows\system32\calc.exe
+c:\windows\system32\config\system
+c:\windows\system32\drivers\etc\hosts
+c:\windows\system32\eula.txt
+c:\windows\system32\license.rtf
+c:\windows\system32\tasks\daily
+c:\windows\system32\windowspowershell\v1.0\powershell.exe
+c:\windows\system32\winevt\logs\system.evtx
+c:\windows\system32\winevt\logs\windows powershell.evtx
+c:\windows\system32\win.ini
+c:\windows\system.ini
+c:\windows\windowsupdate.log
+c:\windows\win.ini
+d:\appserv\mysql
+d:\program files\
